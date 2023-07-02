@@ -7,7 +7,7 @@
       "command": "code-server --install-extension ms-python.python --install-extension batisteo.vscode-django --install-extension wholroyd.jinja --install-extension formulahendry.code-runner && pip install -r requirements.txt",
       "presentation": {
         "reveal": "always",
-        "panel": "new"
+        "panel": "new" 
       },
       "runOptions": { "runOn": "folderOpen" }
     }
